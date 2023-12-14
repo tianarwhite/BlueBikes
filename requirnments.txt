@@ -1,0 +1,8 @@
+streamlit
+pandas
+pydeck
+plotly.express
+matplotlib.pyplot
+seaborn
+folium
+folium_static
